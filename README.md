@@ -1,0 +1,2 @@
+# Fix_Me
+A simulation of financial markets that exchange a simplified version of FIX messages in a multi-threaded network, using asynchronous sockets and the java executor framework. A WeThinkCode Java Module project
